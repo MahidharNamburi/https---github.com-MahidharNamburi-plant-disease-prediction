@@ -1,0 +1,30 @@
+.btn{
+	display: inline-block;
+  padding: 10px 20px;
+  background-color: #4ed168;
+  font-size: large;
+  font-weight: 400;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #130e0e;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+.btn:hover{
+	
+	background-color: #130e0a;
+	color: #4ed168;
+}
+.cl1{
+	color:#ffffff ;
+}
+
+.cl2{
+	color:#4ed168 ;
+}
+.hw1{
+
+    color:#00df2d;
+
+}
